@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JokesApp</string>
+    <string name="Joke1">WHY DID THE CHICKEN CROSS THE ROAD?</string>
+    <string name="Joke2">What kind of cat do you NOT want to play cards with?</string>
+    <string name="Joke3">What is red and smells like blue paint?</string>
+    <string name="Joke4">What do you call a bear with no ears?</string>
+    <string name="Joke5">I\'m not lazy</string>
+    <string name="Joke6">Never let a kiss fool you.</string>
+</resources>
